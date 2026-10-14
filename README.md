@@ -56,7 +56,9 @@ Here is a preview of the RAG system successfully answering technical queries gro
 
 ### 2. Performance Comparison (RAG vs. Parametric Models)
 ![RAG Demo 2](rag_demo_2.png)
-5. Launch the Streamlit Web Application:
+
+
+Final Way => Launch the Streamlit Web Application:
 streamlit run src/app.py
 
 💡 Features
